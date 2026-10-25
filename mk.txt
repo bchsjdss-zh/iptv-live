@@ -1,0 +1,29 @@
+央视,#genre#
+CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV-13,http://120.76.248.139/live/bfgd/4200000067.m3u8
+CETV-1,http://120.76.248.139/live/bfgd/4200000135.m3u8
+卫视,#genre#
+东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8
+云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8
+内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
+山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8
+广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
+广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8
+河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8
+海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
+深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
+湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8
+甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
+西藏卫视,http://120.76.248.139/live/bfgd/4200000121.m3u8
+青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8
+黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8
+其他,#genre#
+Ando TV (1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
+Anhui TV,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
+Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+Dragon TV International,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+VoA TV China (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+Xizang TV Chinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
